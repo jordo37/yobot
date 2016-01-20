@@ -3,10 +3,14 @@
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-google-images",
-  "hubot-google-translate",
+  "hubot-yandex-translate",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-guys",
+  "hubot-chicago-sewage",
+  "hubot-fitbit-leaders",
+  "hubot-darksky"
 ]
